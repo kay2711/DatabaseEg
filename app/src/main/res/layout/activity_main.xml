@@ -12,7 +12,8 @@
         android:id="@+id/book_id"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter Book Id"/>
+        android:hint="Enter Book Id"
+        android:inputType="number"/>
 
     <EditText
         android:id="@+id/book_name"
